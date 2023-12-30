@@ -1,0 +1,14 @@
+body {background-color: rgb(224, 204, 187);}
+
+.button {
+    background-color: black;
+    border: none;
+    border-radius: 12px;
+    color: beige;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration: none;
+}
